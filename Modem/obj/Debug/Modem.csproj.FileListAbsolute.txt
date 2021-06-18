@@ -1,0 +1,8 @@
+F:\Programing\C#\Modem\bin\Debug\Modem.exe.config
+F:\Programing\C#\Modem\bin\Debug\Modem.exe
+F:\Programing\C#\Modem\bin\Debug\Modem.pdb
+F:\Programing\C#\Modem\obj\Debug\Modem.Form1.resources
+F:\Programing\C#\Modem\obj\Debug\Modem.Properties.Resources.resources
+F:\Programing\C#\Modem\obj\Debug\Modem.csproj.GenerateResource.cache
+F:\Programing\C#\Modem\obj\Debug\Modem.exe
+F:\Programing\C#\Modem\obj\Debug\Modem.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChipReader", "ChipReader.csproj", "{FBEBD373-6DBA-4EE0-A846-3E0C2A61AA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEBD373-6DBA-4EE0-A846-3E0C2A61AA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEBD373-6DBA-4EE0-A846-3E0C2A61AA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEBD373-6DBA-4EE0-A846-3E0C2A61AA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEBD373-6DBA-4EE0-A846-3E0C2A61AA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4FAB1F-8905-4D7B-8741-852CFA76A7DC}
+	EndGlobalSection
+EndGlobal
